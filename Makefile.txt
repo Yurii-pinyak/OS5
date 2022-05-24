@@ -1,0 +1,2 @@
+cpp: TaskThree.cpp
+      g++ -o TaskThree TaskThree.cpp
